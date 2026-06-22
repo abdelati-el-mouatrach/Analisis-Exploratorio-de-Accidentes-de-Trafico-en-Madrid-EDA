@@ -53,5 +53,5 @@ Se aplicaron criterios lógicos e institucionales (siguiendo la documentación t
 
 ---
 
-## ✒️ Autor
-* Abdelati El Mouatrach- [GitHub](https://github.com/abdelati-el-mouatrach)
+## 🛡️ License
+This project is licensed under the [MIT License]([https://github.com/abdo-elm/sql-data-warehouse-project/tree/main?tab=MIT-1-ov-file](https://github.com/abdelati-el-mouatrach/EDA---Accidentes-de-Trafico-en-Madrid/blob/main/LICENSE)). You are free to use, modify, and share this project with proper attribution.
