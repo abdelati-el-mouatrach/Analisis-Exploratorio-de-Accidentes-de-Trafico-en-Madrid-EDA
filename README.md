@@ -53,5 +53,5 @@ Se aplicaron criterios lógicos e institucionales (siguiendo la documentación t
 
 ---
 
-## 🛡️ License
-This project is licensed under the [MIT License]([https://github.com/abdo-elm/sql-data-warehouse-project/tree/main?tab=MIT-1-ov-file](https://github.com/abdelati-el-mouatrach/EDA---Accidentes-de-Trafico-en-Madrid/blob/main/LICENSE)). You are free to use, modify, and share this project with proper attribution.
+## 🛡️ Licencia
+Este proyecto está bajo la Licencia MIT. Eres libre de usar, modificar y compartir este proyecto con la atribución correspondiente.
