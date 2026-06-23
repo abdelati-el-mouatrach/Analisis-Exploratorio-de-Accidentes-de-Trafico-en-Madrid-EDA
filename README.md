@@ -57,10 +57,12 @@ madrid-traffic-accidents-eda/
 │   └── 01_accidentes_madrid_eda.ipynb
 │
 ├── images/
-│   ├── accidentes_por_hora.png
-│   ├── accidentes_por_distrito.png
-│   ├── tipos_accidente.png
-│   └── correlaciones.png
+│   ├── accidentes por estado meteo.png
+│   ├── accidentes por distrito.png
+│   ├── tipo accidente.png
+│   └── distribucion de la hora.png
+    ├── correlacion variables numericas.png
+    └── evolucion de accidentes.png
 │
 ├── README.md
 ├── requirements.txt
