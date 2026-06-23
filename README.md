@@ -44,7 +44,10 @@ Se aplicaron criterios lógicos e institucionales (siguiendo la documentación t
 ### 3. Análisis Univariado y Control de Duplicados
 * Implementación de filtros para mitigar el impacto del **doble conteo de accidentes** causado por la presencia de múltiples implicados en un mismo expediente (`num_expediente`).
 
-## Estructura del Proyecto
+---
+
+## 🏗️ Estructura del Proyecto
+```
 madrid-traffic-accidents-eda/
 │
 ├── data/
@@ -62,20 +65,17 @@ madrid-traffic-accidents-eda/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
-## posibles Mejoras Futuras
-
-Ingeniería de características (Feature Engineering).
-Modelos de Machine Learning.
-Regresión Logística.
-Predicción de gravedad de accidentes.
-Predicción de resultados positivos en alcohol.
-Análisis geoespacial mediante mapas interactivos.
 ---
 
 ## 🚀 Próximos Pasos
-* Finalizar las visualizaciones del análisis bivariado cruzando la variable objetivo `gravedad` con las franjas horarias y factores climatológicos.
-* Selección de características (*Feature Selection*) para el entrenamiento del modelo de Machine Learning.
+* Regresión Logística.
+* Modelos de Machine Learning.
+* Predicción de gravedad de accidentes.
+* Predicción de resultados positivos en alcohol.
+* Análisis geoespacial mediante mapas interactivos.
+
 
 ---
 
