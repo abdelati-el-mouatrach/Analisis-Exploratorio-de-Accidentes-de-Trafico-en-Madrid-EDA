@@ -5,7 +5,6 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat&logo=matplotlib&logoColor=black)
 
 ## 📌 Metadatos del Proyecto
-* **Fecha del análisis:** 23-08-2025
 * **Origen de los Datos:** [Portal de Datos Abiertos del Ayuntamiento de Madrid](https://datos.madrid.es/)
 * **Dataset utilizado:** [Accidentes de tráfico detalle CSV](https://datos.madrid.es/egob/catalogo/300228-28-accidentes-trafico-detalle.csv)
 * **Documentación de la estructura:** [Estructura del Conjunto de Datos](https://datos.madrid.es/FWProjects/egob/Catalogo/Seguridad/Ficheros/Estructura_ConjuntoDatos_Accidentesv2dfpdfp)
