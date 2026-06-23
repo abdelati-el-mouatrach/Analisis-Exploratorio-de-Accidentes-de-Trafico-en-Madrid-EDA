@@ -44,6 +44,33 @@ Se aplicaron criterios lógicos e institucionales (siguiendo la documentación t
 ### 3. Análisis Univariado y Control de Duplicados
 * Implementación de filtros para mitigar el impacto del **doble conteo de accidentes** causado por la presencia de múltiples implicados en un mismo expediente (`num_expediente`).
 
+## Estructura del Proyecto
+madrid-traffic-accidents-eda/
+│
+├── data/
+│   └── accidentalidad_2024.csv
+│
+├── notebooks/
+│   └── 01_accidentes_madrid_eda.ipynb
+│
+├── images/
+│   ├── accidentes_por_hora.png
+│   ├── accidentes_por_distrito.png
+│   ├── tipos_accidente.png
+│   └── correlaciones.png
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+## posibles Mejoras Futuras
+
+Ingeniería de características (Feature Engineering).
+Modelos de Machine Learning.
+Regresión Logística.
+Predicción de gravedad de accidentes.
+Predicción de resultados positivos en alcohol.
+Análisis geoespacial mediante mapas interactivos.
 ---
 
 ## 🚀 Próximos Pasos
